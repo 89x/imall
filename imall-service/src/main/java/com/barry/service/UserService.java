@@ -14,4 +14,11 @@ public interface UserService {
      * @return
      */
     public Users CreateUser(UserBo userBo);
+
+
+    /***
+     * 登录
+     */
+    public Users queryUserForLogin(String username,String password);
+
 }

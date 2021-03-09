@@ -1,8 +1,11 @@
 package com.barry.controller;
 
+import com.barry.mapper.UsersMapper;
+import com.barry.pojo.Users;
 import com.barry.pojo.bo.UserBo;
 import com.barry.service.UserService;
 import com.barry.utils.JSONResult;
+import com.barry.utils.MD5Utils;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -52,6 +55,22 @@ public class PassportController {
         }
         userService.CreateUser(userBo);
         return JSONResult.ok();
+
+    }
+    @PostMapping("/Login")
+    public JSONResult Login(@RequestBody UserBo userBo) throws Exception {
+        String username = userBo.getUsername();
+        String password = userBo.getPassword();
+
+        if (StringUtils.isBlank(username)||
+                StringUtils.isBlank(password)){
+            return JSONResult.errorMsg("用户名或者密码不能为空");
+        }
+        Users userResult = userService.queryUserForLogin(username, MD5Utils.getMD5Str(password));
+        if (userResult== null){
+            return JSONResult.errorMsg("用户名或者密码错误");
+        }
+        return JSONResult.ok(userResult);
 
     }
 }
