@@ -1,2 +1,291 @@
-2021-03-09 14:58:13 [ http-nio-8088-exec-1:0 ] - [ INFO ] 阿斯顿发
-2021-03-09 15:00:12 [ http-nio-8088-exec-5:119417 ] - [ INFO ] 阿斯顿发
+2021-03-10 10:12:59 [ background-preinit:0 ] - [ INFO ] HV000001: Hibernate Validator 6.0.17.Final
+2021-03-10 10:13:14 [ main:15264 ] - [ INFO ] Starting Application on barry-Pro.local with PID 1839 (/Users/elsa/imall/imall-api/target/classes started by elsa in /Users/elsa/imall)
+2021-03-10 10:13:14 [ main:15265 ] - [ INFO ] No active profile set, falling back to default profiles: default
+2021-03-10 10:13:16 [ main:16430 ] - [ INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$2eba2c8e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-10 10:13:16 [ main:16850 ] - [ INFO ] Tomcat initialized with port(s): 8088 (http)
+2021-03-10 10:13:16 [ main:16967 ] - [ INFO ] Root WebApplicationContext: initialization completed in 1657 ms
+2021-03-10 10:13:17 [ main:18063 ] - [ INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-10 10:13:18 [ main:18658 ] - [ INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 10:13:18 [ main:18843 ] - [ INFO ] Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-03-10 10:13:18 [ main:18844 ] - [ INFO ] Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-03-10 10:13:18 [ main:18844 ] - [ INFO ] Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-03-10 10:13:18 [ main:18844 ] - [ INFO ] Clear EntityHelper entityTableMap cache.
+2021-03-10 10:13:18 [ main:18871 ] - [ INFO ] Context refreshed
+2021-03-10 10:13:18 [ main:18886 ] - [ INFO ] Found 1 custom documentation plugin(s)
+2021-03-10 10:13:18 [ main:18913 ] - [ INFO ] Scanning for api listing references
+2021-03-10 10:13:18 [ main:19059 ] - [ INFO ] Tomcat started on port(s): 8088 (http) with context path ''
+2021-03-10 10:13:18 [ main:19063 ] - [ INFO ] Started Application in 19.189 seconds (JVM running for 24.838)
+2021-03-10 10:13:26 [ http-nio-8088-exec-1:26917 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2021-03-10 10:13:26 [ http-nio-8088-exec-1:26934 ] - [ INFO ] Completed initialization in 15 ms
+2021-03-10 10:29:10 [ Thread-41:970462 ] - [ INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 10:29:20 [ background-preinit:0 ] - [ INFO ] HV000001: Hibernate Validator 6.0.17.Final
+2021-03-10 10:29:36 [ main:15345 ] - [ INFO ] Starting Application on barry-Pro.local with PID 1974 (/Users/elsa/imall/imall-api/target/classes started by elsa in /Users/elsa/imall)
+2021-03-10 10:29:36 [ main:15347 ] - [ INFO ] No active profile set, falling back to default profiles: default
+2021-03-10 10:29:38 [ main:17293 ] - [ INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7a6a838a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-10 10:29:39 [ main:18217 ] - [ INFO ] Tomcat initialized with port(s): 8088 (http)
+2021-03-10 10:29:39 [ main:18425 ] - [ INFO ] Root WebApplicationContext: initialization completed in 3038 ms
+2021-03-10 10:29:40 [ main:19838 ] - [ INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-10 10:29:41 [ main:20511 ] - [ INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 10:29:41 [ main:20702 ] - [ INFO ] Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-03-10 10:29:41 [ main:20702 ] - [ INFO ] Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-03-10 10:29:41 [ main:20703 ] - [ INFO ] Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-03-10 10:29:41 [ main:20703 ] - [ INFO ] Clear EntityHelper entityTableMap cache.
+2021-03-10 10:29:41 [ main:20732 ] - [ INFO ] Context refreshed
+2021-03-10 10:29:41 [ main:20753 ] - [ INFO ] Found 1 custom documentation plugin(s)
+2021-03-10 10:29:41 [ main:20781 ] - [ INFO ] Scanning for api listing references
+2021-03-10 10:29:41 [ main:20959 ] - [ INFO ] Tomcat started on port(s): 8088 (http) with context path ''
+2021-03-10 10:29:41 [ main:20963 ] - [ INFO ] Started Application in 21.087 seconds (JVM running for 26.914)
+2021-03-10 10:30:26 [ http-nio-8088-exec-1:65405 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2021-03-10 10:30:26 [ http-nio-8088-exec-1:65418 ] - [ INFO ] Completed initialization in 12 ms
+2021-03-10 10:30:59 [ Thread-44:98514 ] - [ INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 10:31:39 [ background-preinit:0 ] - [ INFO ] HV000001: Hibernate Validator 6.0.17.Final
+2021-03-10 10:31:54 [ main:15291 ] - [ INFO ] Starting Application on barry-Pro.local with PID 1998 (/Users/elsa/imall/imall-api/target/classes started by elsa in /Users/elsa/imall)
+2021-03-10 10:31:54 [ main:15292 ] - [ INFO ] No active profile set, falling back to default profiles: default
+2021-03-10 10:31:56 [ main:16664 ] - [ INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5ec530c4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-10 10:31:56 [ main:17023 ] - [ INFO ] Tomcat initialized with port(s): 8088 (http)
+2021-03-10 10:31:56 [ main:17142 ] - [ INFO ] Root WebApplicationContext: initialization completed in 1810 ms
+2021-03-10 10:31:57 [ main:18074 ] - [ INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-10 10:31:58 [ main:18713 ] - [ INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 10:31:58 [ main:18898 ] - [ INFO ] Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-03-10 10:31:58 [ main:18899 ] - [ INFO ] Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-03-10 10:31:58 [ main:18900 ] - [ INFO ] Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-03-10 10:31:58 [ main:18900 ] - [ INFO ] Clear EntityHelper entityTableMap cache.
+2021-03-10 10:31:58 [ main:18929 ] - [ INFO ] Context refreshed
+2021-03-10 10:31:58 [ main:18945 ] - [ INFO ] Found 1 custom documentation plugin(s)
+2021-03-10 10:31:58 [ main:18971 ] - [ INFO ] Scanning for api listing references
+2021-03-10 10:31:58 [ main:19127 ] - [ INFO ] Tomcat started on port(s): 8088 (http) with context path ''
+2021-03-10 10:31:58 [ main:19132 ] - [ INFO ] Started Application in 19.325 seconds (JVM running for 25.227)
+2021-03-10 10:32:54 [ http-nio-8088-exec-1:75322 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2021-03-10 10:32:54 [ http-nio-8088-exec-1:75334 ] - [ INFO ] Completed initialization in 11 ms
+2021-03-10 10:33:17 [ Thread-41:98066 ] - [ INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 10:33:26 [ background-preinit:0 ] - [ INFO ] HV000001: Hibernate Validator 6.0.17.Final
+2021-03-10 10:33:42 [ main:15210 ] - [ INFO ] Starting Application on barry-Pro.local with PID 2015 (/Users/elsa/imall/imall-api/target/classes started by elsa in /Users/elsa/imall)
+2021-03-10 10:33:42 [ main:15211 ] - [ INFO ] No active profile set, falling back to default profiles: default
+2021-03-10 10:33:43 [ main:16288 ] - [ INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$3c54a83e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-10 10:33:43 [ main:16650 ] - [ INFO ] Tomcat initialized with port(s): 8088 (http)
+2021-03-10 10:33:43 [ main:16769 ] - [ INFO ] Root WebApplicationContext: initialization completed in 1524 ms
+2021-03-10 10:33:44 [ main:17638 ] - [ INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-10 10:33:45 [ main:18204 ] - [ INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 10:33:45 [ main:18383 ] - [ INFO ] Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-03-10 10:33:45 [ main:18383 ] - [ INFO ] Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-03-10 10:33:45 [ main:18384 ] - [ INFO ] Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-03-10 10:33:45 [ main:18384 ] - [ INFO ] Clear EntityHelper entityTableMap cache.
+2021-03-10 10:33:45 [ main:18412 ] - [ INFO ] Context refreshed
+2021-03-10 10:33:45 [ main:18427 ] - [ INFO ] Found 1 custom documentation plugin(s)
+2021-03-10 10:33:45 [ main:18453 ] - [ INFO ] Scanning for api listing references
+2021-03-10 10:33:45 [ main:18604 ] - [ INFO ] Tomcat started on port(s): 8088 (http) with context path ''
+2021-03-10 10:33:45 [ main:18608 ] - [ INFO ] Started Application in 18.729 seconds (JVM running for 24.271)
+2021-03-10 10:36:20 [ http-nio-8088-exec-1:173734 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2021-03-10 10:36:20 [ http-nio-8088-exec-1:173749 ] - [ INFO ] Completed initialization in 13 ms
+2021-03-10 10:40:45 [ Thread-40:438283 ] - [ INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 10:40:55 [ background-preinit:0 ] - [ INFO ] HV000001: Hibernate Validator 6.0.17.Final
+2021-03-10 10:41:10 [ main:15394 ] - [ INFO ] Starting Application on barry-Pro.local with PID 2100 (/Users/elsa/imall/imall-api/target/classes started by elsa in /Users/elsa/imall)
+2021-03-10 10:41:10 [ main:15395 ] - [ INFO ] No active profile set, falling back to default profiles: default
+2021-03-10 10:41:12 [ main:16783 ] - [ INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bd76c88d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-10 10:41:12 [ main:17243 ] - [ INFO ] Tomcat initialized with port(s): 8088 (http)
+2021-03-10 10:41:12 [ main:17357 ] - [ INFO ] Root WebApplicationContext: initialization completed in 1913 ms
+2021-03-10 10:41:13 [ main:18372 ] - [ INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-10 10:41:14 [ main:19150 ] - [ INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 10:41:14 [ main:19618 ] - [ INFO ] Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-03-10 10:41:14 [ main:19619 ] - [ INFO ] Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-03-10 10:41:14 [ main:19619 ] - [ INFO ] Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-03-10 10:41:14 [ main:19620 ] - [ INFO ] Clear EntityHelper entityTableMap cache.
+2021-03-10 10:41:14 [ main:19651 ] - [ INFO ] Context refreshed
+2021-03-10 10:41:14 [ main:19669 ] - [ INFO ] Found 1 custom documentation plugin(s)
+2021-03-10 10:41:14 [ main:19697 ] - [ INFO ] Scanning for api listing references
+2021-03-10 10:41:15 [ main:19759 ] - [ INFO ] Tomcat started on port(s): 8088 (http) with context path ''
+2021-03-10 10:41:15 [ main:19765 ] - [ INFO ] Started Application in 19.894 seconds (JVM running for 25.902)
+2021-03-10 10:41:16 [ http-nio-8088-exec-1:21485 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2021-03-10 10:41:16 [ http-nio-8088-exec-1:21515 ] - [ INFO ] Completed initialization in 30 ms
+2021-03-10 10:42:44 [ Thread-42:109387 ] - [ INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 10:42:54 [ background-preinit:0 ] - [ INFO ] HV000001: Hibernate Validator 6.0.17.Final
+2021-03-10 10:43:09 [ main:15212 ] - [ INFO ] Starting Application on barry-Pro.local with PID 2112 (/Users/elsa/imall/imall-api/target/classes started by elsa in /Users/elsa/imall)
+2021-03-10 10:43:09 [ main:15214 ] - [ INFO ] No active profile set, falling back to default profiles: default
+2021-03-10 10:43:10 [ main:16326 ] - [ INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$18adc3c1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-10 10:43:11 [ main:16676 ] - [ INFO ] Tomcat initialized with port(s): 8088 (http)
+2021-03-10 10:43:11 [ main:16779 ] - [ INFO ] Root WebApplicationContext: initialization completed in 1529 ms
+2021-03-10 10:43:12 [ main:17670 ] - [ INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-10 10:43:12 [ main:18219 ] - [ INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 10:43:13 [ main:18393 ] - [ INFO ] Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-03-10 10:43:13 [ main:18394 ] - [ INFO ] Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-03-10 10:43:13 [ main:18394 ] - [ INFO ] Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-03-10 10:43:13 [ main:18394 ] - [ INFO ] Clear EntityHelper entityTableMap cache.
+2021-03-10 10:43:13 [ main:18422 ] - [ INFO ] Context refreshed
+2021-03-10 10:43:13 [ main:18438 ] - [ INFO ] Found 1 custom documentation plugin(s)
+2021-03-10 10:43:13 [ main:18463 ] - [ INFO ] Scanning for api listing references
+2021-03-10 10:43:13 [ main:18614 ] - [ INFO ] Tomcat started on port(s): 8088 (http) with context path ''
+2021-03-10 10:43:13 [ main:18618 ] - [ INFO ] Started Application in 18.731 seconds (JVM running for 24.556)
+2021-03-10 10:43:17 [ http-nio-8088-exec-1:23057 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2021-03-10 10:43:17 [ http-nio-8088-exec-1:23067 ] - [ INFO ] Completed initialization in 10 ms
+2021-03-10 13:54:02 [ http-nio-8088-exec-8:11467526 ] - [ INFO ] DateSourceHikariCP - Starting...
+2021-03-10 13:54:02 [ http-nio-8088-exec-8:11467885 ] - [ INFO ] DateSourceHikariCP - Start completed.
+2021-03-10 13:54:02 [ http-nio-8088-exec-8:11467903 ] - [ INFO ] ====== 开始执行 class com.barry.service.impl.UserServiceImpl.queryUsernameIsExist ======
+2021-03-10 13:54:02 [ http-nio-8088-exec-8:11468069 ] - [ INFO ] ====== 执行结束，耗时：165 毫秒 ======
+2021-03-10 13:54:23 [ http-nio-8088-exec-9:11488893 ] - [ INFO ] ====== 开始执行 class com.barry.service.impl.UserServiceImpl.queryUsernameIsExist ======
+2021-03-10 13:54:23 [ http-nio-8088-exec-9:11488907 ] - [ INFO ] ====== 执行结束，耗时：13 毫秒 ======
+2021-03-10 13:54:37 [ http-nio-8088-exec-10:11502762 ] - [ INFO ] ====== 开始执行 class com.barry.service.impl.UserServiceImpl.queryUsernameIsExist ======
+2021-03-10 13:54:37 [ http-nio-8088-exec-10:11502765 ] - [ INFO ] ====== 执行结束，耗时：2 毫秒 ======
+2021-03-10 14:02:46 [ Thread-40:11991654 ] - [ INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 14:02:46 [ Thread-40:11991658 ] - [ INFO ] DateSourceHikariCP - Shutdown initiated...
+2021-03-10 14:02:46 [ Thread-40:11991664 ] - [ INFO ] DateSourceHikariCP - Shutdown completed.
+2021-03-10 14:02:59 [ background-preinit:0 ] - [ INFO ] HV000001: Hibernate Validator 6.0.17.Final
+2021-03-10 14:03:14 [ main:15360 ] - [ INFO ] Starting Application on barry-Pro.local with PID 2715 (/Users/elsa/imall/imall-api/target/classes started by elsa in /Users/elsa/imall)
+2021-03-10 14:03:14 [ main:15361 ] - [ INFO ] No active profile set, falling back to default profiles: default
+2021-03-10 14:03:16 [ main:16826 ] - [ INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a6313158] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-10 14:03:16 [ main:17390 ] - [ INFO ] Tomcat initialized with port(s): 8088 (http)
+2021-03-10 14:03:17 [ main:17546 ] - [ INFO ] Root WebApplicationContext: initialization completed in 2128 ms
+2021-03-10 14:03:18 [ main:18978 ] - [ INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-10 14:03:19 [ main:19970 ] - [ INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 14:03:19 [ main:20204 ] - [ INFO ] Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-03-10 14:03:19 [ main:20204 ] - [ INFO ] Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-03-10 14:03:19 [ main:20205 ] - [ INFO ] Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-03-10 14:03:19 [ main:20205 ] - [ INFO ] Clear EntityHelper entityTableMap cache.
+2021-03-10 14:03:19 [ main:20238 ] - [ INFO ] Context refreshed
+2021-03-10 14:03:19 [ main:20265 ] - [ INFO ] Found 1 custom documentation plugin(s)
+2021-03-10 14:03:19 [ main:20299 ] - [ INFO ] Scanning for api listing references
+2021-03-10 14:03:20 [ main:20514 ] - [ INFO ] Tomcat started on port(s): 8088 (http) with context path ''
+2021-03-10 14:03:20 [ main:20519 ] - [ INFO ] Started Application in 20.749 seconds (JVM running for 26.919)
+2021-03-10 14:03:23 [ http-nio-8088-exec-1:24387 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2021-03-10 14:03:23 [ http-nio-8088-exec-1:24399 ] - [ INFO ] Completed initialization in 12 ms
+2021-03-10 14:07:44 [ Thread-44:284537 ] - [ INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 14:07:53 [ background-preinit:0 ] - [ INFO ] HV000001: Hibernate Validator 6.0.17.Final
+2021-03-10 14:08:08 [ main:15222 ] - [ INFO ] Starting Application on barry-Pro.local with PID 2778 (/Users/elsa/imall/imall-api/target/classes started by elsa in /Users/elsa/imall)
+2021-03-10 14:08:08 [ main:15225 ] - [ INFO ] No active profile set, falling back to default profiles: default
+2021-03-10 14:08:09 [ main:16530 ] - [ INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$986549f5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-10 14:08:10 [ main:16943 ] - [ INFO ] Tomcat initialized with port(s): 8088 (http)
+2021-03-10 14:08:10 [ main:17068 ] - [ INFO ] Root WebApplicationContext: initialization completed in 1784 ms
+2021-03-10 14:08:11 [ main:18446 ] - [ INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-10 14:08:12 [ main:19107 ] - [ INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 14:08:12 [ main:19349 ] - [ INFO ] Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-03-10 14:08:12 [ main:19350 ] - [ INFO ] Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-03-10 14:08:12 [ main:19351 ] - [ INFO ] Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-03-10 14:08:12 [ main:19351 ] - [ INFO ] Clear EntityHelper entityTableMap cache.
+2021-03-10 14:08:12 [ main:19480 ] - [ INFO ] Context refreshed
+2021-03-10 14:08:12 [ main:19514 ] - [ INFO ] Found 1 custom documentation plugin(s)
+2021-03-10 14:08:12 [ main:19554 ] - [ INFO ] Scanning for api listing references
+2021-03-10 14:08:13 [ main:19763 ] - [ INFO ] Tomcat started on port(s): 8088 (http) with context path ''
+2021-03-10 14:08:13 [ main:19767 ] - [ INFO ] Started Application in 19.884 seconds (JVM running for 25.688)
+2021-03-10 14:08:13 [ http-nio-8088-exec-1:20548 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2021-03-10 14:08:14 [ http-nio-8088-exec-1:20568 ] - [ INFO ] Completed initialization in 19 ms
+2021-03-10 14:09:25 [ Thread-42:91903 ] - [ INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 14:09:34 [ background-preinit:0 ] - [ INFO ] HV000001: Hibernate Validator 6.0.17.Final
+2021-03-10 14:09:49 [ main:15239 ] - [ INFO ] Starting Application on barry-Pro.local with PID 2793 (/Users/elsa/imall/imall-api/target/classes started by elsa in /Users/elsa/imall)
+2021-03-10 14:09:49 [ main:15240 ] - [ INFO ] No active profile set, falling back to default profiles: default
+2021-03-10 14:09:51 [ main:16814 ] - [ INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5ec530c4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-10 14:09:51 [ main:17245 ] - [ INFO ] Tomcat initialized with port(s): 8088 (http)
+2021-03-10 14:09:51 [ main:17551 ] - [ INFO ] Root WebApplicationContext: initialization completed in 2269 ms
+2021-03-10 14:09:52 [ main:18715 ] - [ INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-10 14:09:53 [ main:19598 ] - [ INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 14:09:54 [ main:19823 ] - [ INFO ] Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-03-10 14:09:54 [ main:19825 ] - [ INFO ] Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-03-10 14:09:54 [ main:19825 ] - [ INFO ] Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-03-10 14:09:54 [ main:19825 ] - [ INFO ] Clear EntityHelper entityTableMap cache.
+2021-03-10 14:09:54 [ main:19856 ] - [ INFO ] Context refreshed
+2021-03-10 14:09:54 [ main:19874 ] - [ INFO ] Found 1 custom documentation plugin(s)
+2021-03-10 14:09:54 [ main:19905 ] - [ INFO ] Scanning for api listing references
+2021-03-10 14:09:54 [ main:20133 ] - [ INFO ] Tomcat started on port(s): 8088 (http) with context path ''
+2021-03-10 14:09:54 [ main:20139 ] - [ INFO ] Started Application in 20.25 seconds (JVM running for 25.895)
+2021-03-10 14:09:54 [ http-nio-8088-exec-1:20437 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2021-03-10 14:09:54 [ http-nio-8088-exec-1:20454 ] - [ INFO ] Completed initialization in 16 ms
+2021-03-10 14:10:46 [ Thread-43:72544 ] - [ INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 14:10:56 [ background-preinit:0 ] - [ INFO ] HV000001: Hibernate Validator 6.0.17.Final
+2021-03-10 14:11:11 [ main:15218 ] - [ INFO ] Starting Application on barry-Pro.local with PID 2809 (/Users/elsa/imall/imall-api/target/classes started by elsa in /Users/elsa/imall)
+2021-03-10 14:11:11 [ main:15220 ] - [ INFO ] No active profile set, falling back to default profiles: default
+2021-03-10 14:11:12 [ main:16412 ] - [ INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$de9250e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-10 14:11:13 [ main:16814 ] - [ INFO ] Tomcat initialized with port(s): 8088 (http)
+2021-03-10 14:11:13 [ main:16934 ] - [ INFO ] Root WebApplicationContext: initialization completed in 1679 ms
+2021-03-10 14:11:14 [ main:17876 ] - [ INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-10 14:11:14 [ main:18521 ] - [ INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 14:11:14 [ main:18696 ] - [ INFO ] Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-03-10 14:11:14 [ main:18697 ] - [ INFO ] Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-03-10 14:11:14 [ main:18698 ] - [ INFO ] Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-03-10 14:11:14 [ main:18698 ] - [ INFO ] Clear EntityHelper entityTableMap cache.
+2021-03-10 14:11:15 [ main:18726 ] - [ INFO ] Context refreshed
+2021-03-10 14:11:15 [ main:18741 ] - [ INFO ] Found 1 custom documentation plugin(s)
+2021-03-10 14:11:15 [ main:18779 ] - [ INFO ] Scanning for api listing references
+2021-03-10 14:11:15 [ main:18960 ] - [ INFO ] Tomcat started on port(s): 8088 (http) with context path ''
+2021-03-10 14:11:15 [ main:18965 ] - [ INFO ] Started Application in 19.073 seconds (JVM running for 24.713)
+2021-03-10 16:32:08 [ Thread-41:8472155 ] - [ INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 16:32:16 [ background-preinit:0 ] - [ INFO ] HV000001: Hibernate Validator 6.0.17.Final
+2021-03-10 16:32:17 [ main:511 ] - [ INFO ] Starting Application on barry-Pro.local with PID 3464 (/Users/elsa/imall/imall-api/target/classes started by elsa in /Users/elsa/imall)
+2021-03-10 16:32:17 [ main:512 ] - [ INFO ] No active profile set, falling back to default profiles: default
+2021-03-10 16:32:19 [ main:2749 ] - [ INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f22d6438] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-10 16:32:19 [ main:3416 ] - [ INFO ] Tomcat initialized with port(s): 8088 (http)
+2021-03-10 16:32:20 [ main:3573 ] - [ INFO ] Root WebApplicationContext: initialization completed in 2915 ms
+2021-03-10 16:32:21 [ main:4821 ] - [ INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-10 16:32:21 [ main:5390 ] - [ INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 16:32:22 [ main:5679 ] - [ INFO ] Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-03-10 16:32:22 [ main:5680 ] - [ INFO ] Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-03-10 16:32:22 [ main:5681 ] - [ INFO ] Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-03-10 16:32:22 [ main:5681 ] - [ INFO ] Clear EntityHelper entityTableMap cache.
+2021-03-10 16:32:22 [ main:5725 ] - [ INFO ] Context refreshed
+2021-03-10 16:32:22 [ main:5758 ] - [ INFO ] Found 1 custom documentation plugin(s)
+2021-03-10 16:32:22 [ main:5787 ] - [ INFO ] Scanning for api listing references
+2021-03-10 16:32:22 [ main:6042 ] - [ INFO ] Tomcat started on port(s): 8088 (http) with context path ''
+2021-03-10 16:32:22 [ main:6048 ] - [ INFO ] Started Application in 6.223 seconds (JVM running for 7.71)
+2021-03-10 16:32:25 [ http-nio-8088-exec-1:8888 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2021-03-10 16:32:25 [ http-nio-8088-exec-1:8909 ] - [ INFO ] Completed initialization in 20 ms
+2021-03-10 16:32:37 [ http-nio-8088-exec-4:20942 ] - [ INFO ] ========== domainName: 172.25.128.104 ==========
+2021-03-10 16:32:41 [ http-nio-8088-exec-5:24609 ] - [ INFO ] ========== domainName: 172.25.128.104 ==========
+2021-03-10 16:32:44 [ http-nio-8088-exec-6:27831 ] - [ INFO ] ========== domainName: 172.25.128.104 ==========
+2021-03-10 16:36:59 [ Thread-15:282683 ] - [ INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 16:37:03 [ background-preinit:1 ] - [ INFO ] HV000001: Hibernate Validator 6.0.17.Final
+2021-03-10 16:37:04 [ main:457 ] - [ INFO ] Starting Application on barry-Pro.local with PID 3510 (/Users/elsa/imall/imall-api/target/classes started by elsa in /Users/elsa/imall)
+2021-03-10 16:37:04 [ main:462 ] - [ INFO ] No active profile set, falling back to default profiles: default
+2021-03-10 16:37:06 [ main:2675 ] - [ INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4491119] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-10 16:37:06 [ main:3088 ] - [ INFO ] Tomcat initialized with port(s): 8088 (http)
+2021-03-10 16:37:06 [ main:3205 ] - [ INFO ] Root WebApplicationContext: initialization completed in 2678 ms
+2021-03-10 16:37:08 [ main:4530 ] - [ INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-10 16:37:09 [ main:5391 ] - [ INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 16:37:09 [ main:5637 ] - [ INFO ] Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-03-10 16:37:09 [ main:5637 ] - [ INFO ] Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-03-10 16:37:09 [ main:5638 ] - [ INFO ] Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-03-10 16:37:09 [ main:5638 ] - [ INFO ] Clear EntityHelper entityTableMap cache.
+2021-03-10 16:37:09 [ main:5683 ] - [ INFO ] Context refreshed
+2021-03-10 16:37:09 [ main:5704 ] - [ INFO ] Found 1 custom documentation plugin(s)
+2021-03-10 16:37:09 [ main:5737 ] - [ INFO ] Scanning for api listing references
+2021-03-10 16:37:09 [ main:5973 ] - [ INFO ] Tomcat started on port(s): 8088 (http) with context path ''
+2021-03-10 16:37:09 [ main:5983 ] - [ INFO ] Started Application in 6.143 seconds (JVM running for 7.259)
+2021-03-10 16:37:28 [ http-nio-8088-exec-1:24373 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2021-03-10 16:37:28 [ http-nio-8088-exec-1:24388 ] - [ INFO ] Completed initialization in 15 ms
+2021-03-10 16:38:07 [ http-nio-8088-exec-7:63601 ] - [ INFO ] ====== 开始执行 class com.barry.service.impl.UserServiceImpl.queryUserForLogin ======
+2021-03-10 16:38:07 [ http-nio-8088-exec-7:63713 ] - [ INFO ] DateSourceHikariCP - Starting...
+2021-03-10 16:38:07 [ http-nio-8088-exec-7:63996 ] - [ INFO ] DateSourceHikariCP - Start completed.
+2021-03-10 16:38:07 [ http-nio-8088-exec-7:64049 ] - [ INFO ] ====== 执行结束，耗时：448 毫秒 ======
+2021-03-10 16:38:07 [ http-nio-8088-exec-7:64061 ] - [ INFO ] ========== domainName: 172.25.128.104 ==========
+2021-03-10 16:39:43 [ http-nio-8088-exec-10:159991 ] - [ INFO ] ====== 开始执行 class com.barry.service.impl.UserServiceImpl.queryUsernameIsExist ======
+2021-03-10 16:39:43 [ http-nio-8088-exec-10:160001 ] - [ INFO ] ====== 执行结束，耗时：8 毫秒 ======
+2021-03-10 16:39:43 [ http-nio-8088-exec-10:160008 ] - [ INFO ] ====== 开始执行 class com.barry.service.impl.UserServiceImpl.CreateUser ======
+2021-03-10 16:39:43 [ http-nio-8088-exec-10:160048 ] - [ INFO ] ====== 执行结束，耗时：40 毫秒 ======
+2021-03-10 16:39:43 [ http-nio-8088-exec-10:160057 ] - [ INFO ] ========== domainName: 172.25.128.104 ==========
+2021-03-10 16:42:35 [ DateSourceHikariCP housekeeper:332152 ] - [ WARN ] DateSourceHikariCP - Retrograde clock change detected (housekeeper delta=28s21ms), soft-evicting connections from pool.
+2021-03-10 16:45:57 [ Thread-15:533647 ] - [ INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-10 16:45:57 [ Thread-15:533651 ] - [ INFO ] DateSourceHikariCP - Shutdown initiated...
+2021-03-10 16:45:57 [ Thread-15:533654 ] - [ INFO ] DateSourceHikariCP - Shutdown completed.
+2021-03-10 16:46:01 [ background-preinit:0 ] - [ INFO ] HV000001: Hibernate Validator 6.0.17.Final
+2021-03-10 16:46:01 [ main:607 ] - [ INFO ] Starting Application on barry-Pro.local with PID 3543 (/Users/elsa/imall/imall-api/target/classes started by elsa in /Users/elsa/imall)
+2021-03-10 16:46:01 [ main:608 ] - [ INFO ] No active profile set, falling back to default profiles: default
+2021-03-10 16:46:04 [ main:3125 ] - [ INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e10bf005] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-10 16:46:04 [ main:3585 ] - [ INFO ] Tomcat initialized with port(s): 8088 (http)
+2021-03-10 16:46:04 [ main:3759 ] - [ INFO ] Root WebApplicationContext: initialization completed in 2890 ms
+2021-03-10 16:46:05 [ main:4797 ] - [ INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-10 16:46:06 [ main:5326 ] - [ INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-10 16:46:06 [ main:5500 ] - [ INFO ] Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-03-10 16:46:06 [ main:5501 ] - [ INFO ] Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-03-10 16:46:06 [ main:5501 ] - [ INFO ] Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-03-10 16:46:06 [ main:5502 ] - [ INFO ] Clear EntityHelper entityTableMap cache.
+2021-03-10 16:46:06 [ main:5528 ] - [ INFO ] Context refreshed
+2021-03-10 16:46:06 [ main:5551 ] - [ INFO ] Found 1 custom documentation plugin(s)
+2021-03-10 16:46:06 [ main:5589 ] - [ INFO ] Scanning for api listing references
+2021-03-10 16:46:06 [ main:5788 ] - [ INFO ] Tomcat started on port(s): 8088 (http) with context path ''
+2021-03-10 16:46:06 [ main:5792 ] - [ INFO ] Started Application in 6.074 seconds (JVM running for 7.256)
+2021-03-10 16:46:31 [ http-nio-8088-exec-1:29990 ] - [ INFO ] Initializing Servlet 'dispatcherServlet'
+2021-03-10 16:46:31 [ http-nio-8088-exec-1:30004 ] - [ INFO ] Completed initialization in 13 ms
+2021-03-10 16:46:31 [ http-nio-8088-exec-1:30097 ] - [ INFO ] DateSourceHikariCP - Starting...
+2021-03-10 16:46:31 [ http-nio-8088-exec-1:30333 ] - [ INFO ] DateSourceHikariCP - Start completed.
+2021-03-10 16:46:31 [ http-nio-8088-exec-1:30339 ] - [ INFO ] ====== 开始执行 class com.barry.service.impl.UserServiceImpl.queryUsernameIsExist ======
+2021-03-10 16:46:31 [ http-nio-8088-exec-1:30439 ] - [ INFO ] ====== 执行结束，耗时：99 毫秒 ======
+2021-03-10 16:46:38 [ http-nio-8088-exec-2:37762 ] - [ INFO ] ====== 开始执行 class com.barry.service.impl.UserServiceImpl.queryUsernameIsExist ======
+2021-03-10 16:46:38 [ http-nio-8088-exec-2:37771 ] - [ INFO ] ====== 执行结束，耗时：8 毫秒 ======
+2021-03-10 16:46:48 [ http-nio-8088-exec-3:47727 ] - [ INFO ] ====== 开始执行 class com.barry.service.impl.UserServiceImpl.queryUsernameIsExist ======
+2021-03-10 16:46:48 [ http-nio-8088-exec-3:47732 ] - [ INFO ] ====== 执行结束，耗时：5 毫秒 ======
