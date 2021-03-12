@@ -1,0 +1,24 @@
+2021-03-11 09:26:29 [ DateSourceHikariCP housekeeper:50440752 ] - [ WARN ] DateSourceHikariCP - Thread starvation or clock leap detected (housekeeper delta=10h31m53s841ms).
+2021-03-11 09:40:32 [ DateSourceHikariCP housekeeper:51282883 ] - [ WARN ] DateSourceHikariCP - Retrograde clock change detected (housekeeper delta=28s183ms), soft-evicting connections from pool.
+2021-03-11 09:41:32 [ DateSourceHikariCP housekeeper:51342955 ] - [ WARN ] DateSourceHikariCP - Retrograde clock change detected (housekeeper delta=29s499ms), soft-evicting connections from pool.
+2021-03-11 10:05:53 [ Thread-43:52803891 ] - [ INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-11 10:05:53 [ Thread-43:52803920 ] - [ INFO ] DateSourceHikariCP - Shutdown initiated...
+2021-03-11 10:05:53 [ Thread-43:52803934 ] - [ INFO ] DateSourceHikariCP - Shutdown completed.
+2021-03-11 14:48:37 [ background-preinit:0 ] - [ INFO ] HV000001: Hibernate Validator 6.0.17.Final
+2021-03-11 14:48:52 [ main:15293 ] - [ INFO ] Starting Application on barry-Pro.local with PID 6163 (/Users/elsa/imall/imall-api/target/classes started by elsa in /Users/elsa/imall)
+2021-03-11 14:48:52 [ main:15294 ] - [ INFO ] No active profile set, falling back to default profiles: default
+2021-03-11 14:48:54 [ main:16592 ] - [ INFO ] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7a6a838a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-03-11 14:48:54 [ main:17089 ] - [ INFO ] Tomcat initialized with port(s): 8088 (http)
+2021-03-11 14:48:54 [ main:17236 ] - [ INFO ] Root WebApplicationContext: initialization completed in 1889 ms
+2021-03-11 14:48:55 [ main:18443 ] - [ INFO ] Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2021-03-11 14:48:56 [ main:18996 ] - [ INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-11 14:48:56 [ main:19218 ] - [ INFO ] Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2021-03-11 14:48:56 [ main:19219 ] - [ INFO ] Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2021-03-11 14:48:56 [ main:19219 ] - [ INFO ] Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2021-03-11 14:48:56 [ main:19220 ] - [ INFO ] Clear EntityHelper entityTableMap cache.
+2021-03-11 14:48:56 [ main:19250 ] - [ INFO ] Context refreshed
+2021-03-11 14:48:56 [ main:19279 ] - [ INFO ] Found 1 custom documentation plugin(s)
+2021-03-11 14:48:56 [ main:19310 ] - [ INFO ] Scanning for api listing references
+2021-03-11 14:48:56 [ main:19516 ] - [ INFO ] Tomcat started on port(s): 8088 (http) with context path ''
+2021-03-11 14:48:56 [ main:19521 ] - [ INFO ] Started Application in 19.692 seconds (JVM running for 25.639)
+2021-03-11 14:49:05 [ Thread-42:28247 ] - [ INFO ] Shutting down ExecutorService 'applicationTaskExecutor'

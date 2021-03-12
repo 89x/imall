@@ -12,7 +12,7 @@ public enum  Sex {
     public final String Value;
 
     Sex(Integer type, String value) {
-        Type = type;
-        Value = value;
+        this.Type = type;
+        this.Value = value;
     }
 }
